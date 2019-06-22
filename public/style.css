@@ -1,0 +1,35 @@
+:root
+  {
+    --bg: rgb(249,249,249); 
+  }
+@keyframes float {
+	0% {
+		transform: translate3d(0,0,0) rotateZ(-2deg);
+	}
+	50% {
+		transform: translate3d(0,-2px,-2px) rotateZ(2deg);
+	}
+	100% {
+		transform: translate3d(0,0, 0) rotateZ(-2deg);
+	}
+}
+body
+  {
+    background-color: var(--bg);
+    font-family: "pepsi light";
+
+}
+tag
+  {
+    background: black;
+    color: var(--bg);
+    font-size: 15px;
+    border-radius: 12px;
+    padding: 9px 9px;
+    animation: float 3s ease-in-out infinite;
+    position: relative;
+    display: inline-block ;
+    
+  }
+
+
