@@ -2,6 +2,12 @@
 
 #### Simple file uploader implementation in different programming languages.
 
+## Node Implementation
+
+1. Run ``npm install`` to install packages.
+
+2. Run ``npm start`` to start the server.
+
 ### Purpose of this project?
 
 This project was started by [@pepsi](https://github.com/pepsi) in 2019. It's purpose was to help learn some basics of programming languages by making a simple file upload web server. I plan to do the same.
