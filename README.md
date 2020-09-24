@@ -4,7 +4,7 @@
 
 ### Purpose of this project?
 
-This project was started by [@pepsi](https://github.com/pepsi) in 2019. It's purpose was to help learn some basics of programming languages by making a simple file upload web server. I tend to do the same.
+This project was started by [@pepsi](https://github.com/pepsi) in 2019. It's purpose was to help learn some basics of programming languages by making a simple file upload web server. I plan to do the same.
 
 ### Some rules:
 
