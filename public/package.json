@@ -1,5 +1,5 @@
 {
-  "name": "clyx-ml",
+  "name": "clyx",
   "version": "1.0.0",
   "description": "A simple file uploader implementation",
   "main": "index.js",

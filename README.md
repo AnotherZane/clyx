@@ -1,4 +1,4 @@
-# Clyx.ml
+# Clyx
 
 #### Simple file uploader implementation in different programming languages.
 
@@ -24,7 +24,7 @@ This project was started by [@pepsi](https://github.com/pepsi) in 2019. It's pur
 
 ### List of current implementations:
 
-- [Go](https://github.com/AnotherZane/clyx-ml/tree/go) (Old)
+- [Go](https://github.com/AnotherZane/clyx/tree/go) (Old)
 
 
 ### List of planned implementations:
