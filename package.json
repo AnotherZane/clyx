@@ -1,0 +1,25 @@
+{
+  "name": "clyx-node",
+  "version": "1.0.0",
+  "description": "A simple file uploader implementation",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnotherZane/clyx.git"
+  },
+  "author": "AnotherZane",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AnotherZane/clyx/issues"
+  },
+  "homepage": "https://github.com/AnotherZane/clyx#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-fileupload": "^1.2.0",
+    "path": "^0.12.7"
+  }
+}
