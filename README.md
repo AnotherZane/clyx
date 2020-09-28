@@ -24,12 +24,12 @@ This project was started by [@pepsi](https://github.com/pepsi) in 2019. It's pur
 
 ### List of current implementations:
 
+- [Node](https://github.com/AnotherZane/clyx/tree/node)
 - [Go](https://github.com/AnotherZane/clyx/tree/go) (Old)
 
 
 ### List of planned implementations:
 
-- Node
 - Rust
 - Go (New)
 - Elixir
